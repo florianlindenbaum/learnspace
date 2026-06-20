@@ -1,0 +1,18 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+.*.swp
+.vscode/
+.idea/
+
+# Build / tooling artifacts (на случай добавления кода к конспектам)
+build/
+out/
+*.o
+*.obj
+*.exe
+a.out
+__pycache__/
+.pytools/
